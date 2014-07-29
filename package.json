@@ -1,0 +1,9 @@
+{
+  "description": "A simple app to understand code for Angular, node and mongo using express",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongoose": "~3.8.14",
+    "express": "x.x.x",
+    "morgan": "~1.2.2"
+  }
+}
