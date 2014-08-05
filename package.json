@@ -5,6 +5,7 @@
     "mongoose": "~3.8.14",
     "express": "x.x.x",
     "morgan": "~1.2.2",
-    "nodemon": "~1.2.1"
+    "nodemon": "~1.2.1",
+    "connect": "~2.24.3"
   }
 }

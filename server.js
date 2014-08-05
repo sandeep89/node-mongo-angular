@@ -5,6 +5,8 @@ var express = require('express'),
 	logger = require('morgan'),
 	http = require("http");
 
+app.use(require('connect').bodyParser());
+
 app.use(logger());
 
 app.use(require("./lib/controller"));
